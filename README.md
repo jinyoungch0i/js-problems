@@ -1,9 +1,9 @@
-Mandatory exercises:
+Suggested exercises:
 
 - [x] helloWorld
 - [ ] repeatString
 - [ ] reverseString
 - [ ] removeFromArray
 - [ ] sumAll
-- [x] leapYears
-- [x] tempConversion
+- [x] leapYears (12/7)
+- [x] tempConversion (12/7)

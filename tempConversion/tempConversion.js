@@ -1,7 +1,12 @@
 /* lessons learnt:
 
 -toFixed returns a string, not a number.
-Math.round should be used if further computation is required.
+Math.round should be used if further arithmatic computation is required.
+
+-in order to customise the decimal points of the returned Math.round() value:
+e.g. rounding 3.243 to two decimal places = Math.round(3.243 * 100) / 100 .
+e.g.2 rounding 2.196 to one decimal place = Math.round(2.196 * 10) / 10 .
+
 
 */
 
